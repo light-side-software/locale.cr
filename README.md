@@ -1,6 +1,8 @@
 # locale.cr
 
-Bindings to ***locale.h*** C library.
+Bindings to **locale.h** C library.
+
+[![GitHub release](https://img.shields.io/github/release/light-side-software/locale.cr.svg)](https://github.com/light-side-software/locale.cr/releases)
 
 ## Installation
 
@@ -30,4 +32,4 @@ LibC.setlocale(LibC::LC_ALL, "")
 
 ## Contributors
 
-- [TamasSzekeres](https://github.com/TamasSzekeres) Tamás Szekeres - creator and maintainer
+- [Tamás Szekeres](https://github.com/TamasSzekeres) - creator and maintainer

@@ -152,7 +152,7 @@ lib LibC
 end
 
 module Locale
-  VERSION = "0.1.0"
+  VERSION = "1.0.0"
 
   # Set and/or return the current locale.
   def self.set_locale(category : Int32, locale : String) : String
